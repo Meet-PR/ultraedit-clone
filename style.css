@@ -1,0 +1,50 @@
+.intro h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    color: #3c3c3c;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+ .card {
+      background-color: #fefefe;
+      padding: 30px 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+      text-align: center;
+      margin-bottom: 20px;
+      height: 100%;
+    }
+
+    .card h3 {
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .card h4 {
+      margin-bottom: 20px;
+      font-size: 1rem;
+      color: #777;
+    }
+
+    .card-download {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .card-download:hover {
+      background-color: #45a049;
+    }
+
+    .hash {
+      margin-top: 15px;
+      font-size: 0.75rem;
+      font-family: monospace;
+      color: #666;
+      word-break: break-word;
+    }
